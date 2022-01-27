@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 estoy modificando el fichero repo4 en local
+=======
+"Estoy modificando repo4 desde remoto"
+>>>>>>> 404db56300772d209052704ca01054f3698144da
