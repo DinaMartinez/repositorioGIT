@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 creo otro texto en activ31
+=======
+creo texto en activ31
+>>>>>>> actividad3
